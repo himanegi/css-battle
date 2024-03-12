@@ -3,3 +3,16 @@
     padding:0;
     font-family: 'Poppins';
   }
+  .container{
+    height:100vh;
+    background-color:#D7B4FA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .inner{
+    margin:20px;
+    height:400px;
+    width:250px;
+    background-color:white;
+  }
